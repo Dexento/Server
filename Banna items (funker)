@@ -98,10 +98,10 @@ groups:
     - noitem.nocraft.26524
     - noitem.nouse.26524
     - noitem.nopickup.26524
-    - noitem.noplace.302115
-    - noitem.nocraft.302115
-    - noitem.nouse.302115
-    - noitem.nopickup.302115
+    - noitem.noplace.302114
+    - noitem.nocraft.302114
+    - noitem.nouse.302114
+    - noitem.nopickup.302114
     - noitem.noplace.30215
     - noitem.nocraft.30215
     - noitem.nouse.30215
@@ -160,7 +160,7 @@ groups:
     - noitem.noplace.27533
     - noitem.nocraft.27574
     - noitem.nouse.27574
-    - noitem.nopickup.27474
+    - noitem.nopickup.27574
     - noitem.noplace.27574
     - noitem.nocraft.27584
     - noitem.nouse.27584
@@ -170,10 +170,14 @@ groups:
     - noitem.nouse.27526
     - noitem.nopickup.27526
     - noitem.noplace.27526
-    - noitem.nocraft.30208
-    - noitem.nouse.30208
-    - noitem.nopickup.30208
-    - noitem.noplace.30208
+    - noitem.nocraft.30208.1
+    - noitem.nouse.30208.1
+    - noitem.nopickup.30208.1
+    - noitem.noplace.30208.1
+    - noitem.nocraft.30208.27
+    - noitem.nouse.30208.27
+    - noitem.nopickup.30208.27
+    - noitem.noplace.30208.27
     - noitem.nouse.46
     - noitem.nopickup.46
     - noitem.noplace.46
@@ -187,9 +191,6 @@ groups:
     - noitem.noplace.225
     - noitem.nocraft.225
     - noitem.nouse.27537
-    - noitem.nopickup.27537
-    - noitem.noplace.27537
-    - noitem.nocraft.27537
     - noitem.nouse.27537.1
     - noitem.nopickup.27537.1
     - noitem.noplace.27537.1
@@ -202,18 +203,10 @@ groups:
     - noitem.nopickup.27533.1
     - noitem.noplace.27533.1
     - noitem.nocraft.27533.1
-    - noitem.nouse.27593
-    - noitem.nopickup.27593
-    - noitem.noplace.27593
-    - noitem.nocraft.27593
     - noitem.nouse.27593.1
     - noitem.nopickup.27593.1
     - noitem.noplace.27593.1
     - noitem.nocraft.27593.1
-    - noitem.nouse.27532
-    - noitem.nopickup.27532
-    - noitem.noplace.27532
-    - noitem.nocraft.27532
     - noitem.nouse.27532.1
     - noitem.nopickup.27532.1
     - noitem.noplace.27532.1
@@ -254,10 +247,10 @@ groups:
     - noitem.nocraft.26524
     - noitem.nouse.26524
     - noitem.nopickup.26524
-    - noitem.noplace.302115
-    - noitem.nocraft.302115
-    - noitem.nouse.302115
-    - noitem.nopickup.302115
+    - noitem.noplace.302114
+    - noitem.nocraft.302114
+    - noitem.nouse.302114
+    - noitem.nopickup.302114
     - noitem.noplace.30215
     - noitem.nocraft.30215
     - noitem.nouse.30215
@@ -316,7 +309,7 @@ groups:
     - noitem.noplace.27533
     - noitem.nocraft.27574
     - noitem.nouse.27574
-    - noitem.nopickup.27474
+    - noitem.nopickup.27574
     - noitem.noplace.27574
     - noitem.nocraft.27584
     - noitem.nouse.27584
@@ -326,10 +319,14 @@ groups:
     - noitem.nouse.27526
     - noitem.nopickup.27526
     - noitem.noplace.27526
-    - noitem.nocraft.30208
-    - noitem.nouse.30208
-    - noitem.nopickup.30208
-    - noitem.noplace.30208
+    - noitem.nocraft.30208.1
+    - noitem.nouse.30208.1
+    - noitem.nopickup.30208.1
+    - noitem.noplace.30208.1
+    - noitem.nocraft.30208.27
+    - noitem.nouse.30208.27
+    - noitem.nopickup.30208.27
+    - noitem.noplace.30208.27
     - noitem.nouse.46
     - noitem.nopickup.46
     - noitem.noplace.46
@@ -342,6 +339,27 @@ groups:
     - noitem.nopickup.225
     - noitem.noplace.225
     - noitem.nocraft.225
+    - noitem.nouse.27537
+    - noitem.nouse.27537.1
+    - noitem.nopickup.27537.1
+    - noitem.noplace.27537.1
+    - noitem.nocraft.27537.1
+    - noitem.nouse.27533
+    - noitem.nopickup.27533
+    - noitem.noplace.27533
+    - noitem.nocraft.27533
+    - noitem.nouse.27533.1
+    - noitem.nopickup.27533.1
+    - noitem.noplace.27533.1
+    - noitem.nocraft.27533.1
+    - noitem.nouse.27593.1
+    - noitem.nopickup.27593.1
+    - noitem.noplace.27593.1
+    - noitem.nocraft.27593.1
+    - noitem.nouse.27532.1
+    - noitem.nopickup.27532.1
+    - noitem.noplace.27532.1
+    - noitem.nocraft.27532.1
     inheritance:
     - Guest
     - g:essentials_builder
@@ -373,10 +391,10 @@ groups:
     - noitem.nocraft.26524
     - noitem.nouse.26524
     - noitem.nopickup.26524
-    - noitem.noplace.302115
-    - noitem.nocraft.302115
-    - noitem.nouse.302115
-    - noitem.nopickup.302115
+    - noitem.noplace.302114
+    - noitem.nocraft.302114
+    - noitem.nouse.302114
+    - noitem.nopickup.302114
     - noitem.noplace.30215
     - noitem.nocraft.30215
     - noitem.nouse.30215
@@ -435,7 +453,7 @@ groups:
     - noitem.noplace.27533
     - noitem.nocraft.27574
     - noitem.nouse.27574
-    - noitem.nopickup.27474
+    - noitem.nopickup.27574
     - noitem.noplace.27574
     - noitem.nocraft.27584
     - noitem.nouse.27584
@@ -445,10 +463,14 @@ groups:
     - noitem.nouse.27526
     - noitem.nopickup.27526
     - noitem.noplace.27526
-    - noitem.nocraft.30208
-    - noitem.nouse.30208
-    - noitem.nopickup.30208
-    - noitem.noplace.30208
+    - noitem.nocraft.30208.1
+    - noitem.nouse.30208.1
+    - noitem.nopickup.30208.1
+    - noitem.noplace.30208.1
+    - noitem.nocraft.30208.27
+    - noitem.nouse.30208.27
+    - noitem.nopickup.30208.27
+    - noitem.noplace.30208.27
     - noitem.nouse.46
     - noitem.nopickup.46
     - noitem.noplace.46
@@ -461,6 +483,27 @@ groups:
     - noitem.nopickup.225
     - noitem.noplace.225
     - noitem.nocraft.225
+    - noitem.nouse.27537
+    - noitem.nouse.27537.1
+    - noitem.nopickup.27537.1
+    - noitem.noplace.27537.1
+    - noitem.nocraft.27537.1
+    - noitem.nouse.27533
+    - noitem.nopickup.27533
+    - noitem.noplace.27533
+    - noitem.nocraft.27533
+    - noitem.nouse.27533.1
+    - noitem.nopickup.27533.1
+    - noitem.noplace.27533.1
+    - noitem.nocraft.27533.1
+    - noitem.nouse.27593.1
+    - noitem.nopickup.27593.1
+    - noitem.noplace.27593.1
+    - noitem.nocraft.27593.1
+    - noitem.nouse.27532.1
+    - noitem.nopickup.27532.1
+    - noitem.noplace.27532.1
+    - noitem.nocraft.27532.1
     - essentials.back
     - essentials.chat.color
     - essentials.kit
@@ -495,10 +538,10 @@ groups:
     - noitem.nocraft.26524
     - noitem.nouse.26524
     - noitem.nopickup.26524
-    - noitem.noplace.302115
-    - noitem.nocraft.302115
-    - noitem.nouse.302115
-    - noitem.nopickup.302115
+    - noitem.noplace.302114
+    - noitem.nocraft.302114
+    - noitem.nouse.302114
+    - noitem.nopickup.302114
     - noitem.noplace.30215
     - noitem.nocraft.30215
     - noitem.nouse.30215
@@ -557,7 +600,7 @@ groups:
     - noitem.noplace.27533
     - noitem.nocraft.27574
     - noitem.nouse.27574
-    - noitem.nopickup.27474
+    - noitem.nopickup.27574
     - noitem.noplace.27574
     - noitem.nocraft.27584
     - noitem.nouse.27584
@@ -567,10 +610,14 @@ groups:
     - noitem.nouse.27526
     - noitem.nopickup.27526
     - noitem.noplace.27526
-    - noitem.nocraft.30208
-    - noitem.nouse.30208
-    - noitem.nopickup.30208
-    - noitem.noplace.30208
+    - noitem.nocraft.30208.1
+    - noitem.nouse.30208.1
+    - noitem.nopickup.30208.1
+    - noitem.noplace.30208.1
+    - noitem.nocraft.30208.27
+    - noitem.nouse.30208.27
+    - noitem.nopickup.30208.27
+    - noitem.noplace.30208.27
     - noitem.nouse.46
     - noitem.nopickup.46
     - noitem.noplace.46
@@ -583,6 +630,27 @@ groups:
     - noitem.nopickup.225
     - noitem.noplace.225
     - noitem.nocraft.225
+    - noitem.nouse.27537
+    - noitem.nouse.27537.1
+    - noitem.nopickup.27537.1
+    - noitem.noplace.27537.1
+    - noitem.nocraft.27537.1
+    - noitem.nouse.27533
+    - noitem.nopickup.27533
+    - noitem.noplace.27533
+    - noitem.nocraft.27533
+    - noitem.nouse.27533.1
+    - noitem.nopickup.27533.1
+    - noitem.noplace.27533.1
+    - noitem.nocraft.27533.1
+    - noitem.nouse.27593.1
+    - noitem.nopickup.27593.1
+    - noitem.noplace.27593.1
+    - noitem.nocraft.27593.1
+    - noitem.nouse.27532.1
+    - noitem.nopickup.27532.1
+    - noitem.noplace.27532.1
+    - noitem.nocraft.27532.1
     - essentials.back
     - essentials.chat.color
     - essentials.kit
